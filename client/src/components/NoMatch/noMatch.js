@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import "./NoMatch.css";
+import "./noMatch.css";
 
 class NoMatch extends Component {
 
